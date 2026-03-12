@@ -1,2 +1,1 @@
-# Meru-Technosoft-assi
-rag project 
+Making an Agent That Work For Me Like OpenClaw
